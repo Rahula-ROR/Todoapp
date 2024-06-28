@@ -30,9 +30,10 @@ Name - todo
 description - what kind of todo
 for a new Todo:
  initiate a Todo instance variable 
- todo1 = Todo.new
+ @todo1 = Todo.new
 to create todo 
 initiate a new Todo object
+instance variable 
 
 save the object to database
 .new-> creates a new object, but doesnt save it to database
@@ -42,3 +43,16 @@ save the object to database
 resorces :todos
 
 gives me all the crud routes for todos
+
+Version control - Git
+
+Flash
+
+I can add messages to flash( which is hash)
+
+the i can display the contents of the messages that are in flash 
+
+CRUD FROM UI 
+create  a partial
+
+Refactor thr code when it starts to smell
