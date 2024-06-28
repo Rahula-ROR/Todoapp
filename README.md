@@ -56,3 +56,8 @@ CRUD FROM UI
 create  a partial
 
 Refactor thr code when it starts to smell
+
+
+STeps to run the code :
+
+Open the terminal and start the server using " rails s" command .
